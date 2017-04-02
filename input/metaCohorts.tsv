@@ -1,0 +1,12 @@
+Liver	DigestiveTract
+Colon	DigestiveTract
+Pancreas	DigestiveTract
+Esophagus	DigestiveTract
+Stomach	DigestiveTract
+Biliary	DigestiveTract
+Breast	FemaleReproductiveSystem
+Cervix Uteri	FemaleReproductiveSystem
+Ovary	FemaleReproductiveSystem
+Uterus	FemaleReproductiveSystem
+Fallopian Tube	FemaleReproductiveSystem
+Vagina	FemaleReproductiveSystem
